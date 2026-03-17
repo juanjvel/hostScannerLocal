@@ -1,12 +1,12 @@
 # hostScannerLocal
 Una herramienta programada en Bash para el escaneo local de hosts en la red.
 
-![image](https://github.com/itzjujo092/hostScannerLocal/assets/74797604/4e1b6591-b430-4589-8240-04368b015c17)
+![image](https://github.com/juanjvel/hostScannerLocal/assets/74797604/4e1b6591-b430-4589-8240-04368b015c17)
 
 # COMO DESCARGAR
 Como primer paso procederemos a clonar el repositorio en nuestro equipo, para eso, vamos hacer el siguiente comando en nuestra terminal linux
 ```
-git clone https://github.com/itzjujo092/hostScannerLocal.git
+git clone https://github.com/juanjvel/hostScannerLocal.git
 ```
 posterior, ya tendriamos descargado el proyecto en nuestro equipo, procederiamos a entrar al directorio.
 ```
